@@ -41,10 +41,12 @@ permalink: /blog/test/
 
 3. 게시물 작성 후 파일 저장
 
-4. git commit -> push
+4. git add -> git commit -> git push
 
 ```
+git add .
 git commit -m "20220109 Github 블로그 게시물 업로드 방법 및 마크다운 문법"
+git push -u origin master
 ```
 
 ### 자주 사용할 마크다운 문법

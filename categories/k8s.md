@@ -1,6 +1,6 @@
 ---
 layout: page
-title: k8s
+title: Guides
 permalink: /blog/categories/k8s/
 ---
 
