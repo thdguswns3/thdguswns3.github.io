@@ -4,7 +4,7 @@ title: "Github 블로그 게시물 업로드 방법 및 마크다운 문법"
 summary: "Multi Author Support allows to create articles with different Authors"
 author: joon
 date: "2022-01-09 22:35:23 +0530"
-category: joon
+category: test
 thumbnail: /assets/img/posts/code.jpg
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi author
 usemathjax: true
@@ -24,10 +24,8 @@ permalink: /blog/Github 블로그 게시물 업로드 방법 및 마크다운 �
 
 2. 게시물 상단에 다음과 같이 yml 형식 제목 및 게시물 정보 작성
 
-'''yml
-
+```yml
 ---
-
 layout: post
 title: "Github 블로그 첫 게시물 올리기 테스트 및 올리는 법"
 author: joon
@@ -36,10 +34,8 @@ category: test
 thumbnail: /assets/img/posts/code.jpg
 usemathjax: false
 permalink: /blog/test/
-
 ---
-
-'''
+```
 
 3. 게시물 작성 후 파일 저장
 
