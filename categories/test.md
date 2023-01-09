@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guides
+title: test
 permalink: /blog/categories/test/
 ---
 
