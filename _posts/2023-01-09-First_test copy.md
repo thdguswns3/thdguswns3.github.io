@@ -6,7 +6,6 @@ author: joon
 date: "2023-01-09 22:35:23 +0530"
 category: test
 thumbnail: /assets/img/posts/code.jpg
-keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi author
 usemathjax: true
 permalink: /blog/Github 블로그 게시물 업로드 방법 및 마크다운 문법/
 ---
