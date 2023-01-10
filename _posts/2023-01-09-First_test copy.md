@@ -4,7 +4,7 @@ title: "Github 블로그 게시물 업로드 방법 및 마크다운 문법"
 summary: "Multi Author Support allows to create articles with different Authors"
 author: joon
 date: "2023-01-09 22:35:23 +0530"
-category: test
+category: blog
 thumbnail: /assets/img/posts/code.jpg
 usemathjax: true
 permalink: /blog/Github 블로그 게시물 업로드 방법 및 마크다운 문법/
