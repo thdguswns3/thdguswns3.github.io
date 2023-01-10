@@ -6,6 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://thdguswns3.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "/" # the subpath of your site, e.g. /blog
 futrue: true
+timezone: Asia/Seoul
 # Navigation
 urls:
   - text: Home
