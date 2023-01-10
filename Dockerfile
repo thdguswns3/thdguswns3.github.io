@@ -4,10 +4,10 @@ WORKDIR /srv/jekyll
 
 ADD . /srv/jekyll
 
-RUN gem install bundler && \
+RUN gem install bundler:2.3.26 && \
     rm -rf Gemfile.lock && \
     chmod -R 777 ${PWD} && \
-    bundle update && \
+    bundle _2.3.26_ update && \
     bundle install
     # jekyll build && \
     # jekyll serve --livereload --drafts --trace
