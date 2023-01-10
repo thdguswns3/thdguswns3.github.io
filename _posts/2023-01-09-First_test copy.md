@@ -3,7 +3,7 @@ layout: post
 title: "Github 블로그 게시물 업로드 방법 및 마크다운 문법"
 summary: "Multi Author Support allows to create articles with different Authors"
 author: joon
-date: "2022-01-09 22:35:23 +0530"
+date: "2023-01-09 22:35:23 +0530"
 category: test
 thumbnail: /assets/img/posts/code.jpg
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi author
@@ -29,7 +29,7 @@ permalink: /blog/Github 블로그 게시물 업로드 방법 및 마크다운 �
 layout: post
 title: "Github 블로그 첫 게시물 올리기 테스트 및 올리는 법"
 author: joon
-date: "2022-01-09 21:30"
+date: "2023-01-09 21:30"
 category: test
 thumbnail: /assets/img/posts/code.jpg
 usemathjax: false
